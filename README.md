@@ -4,7 +4,7 @@ Solution for Weekly Programming Challenge #3 by Jamis Buck.
 
 [https://medium.com/@jamis/weekly-programming-challenge-3-932b16ddd957](https://medium.com/@jamis/weekly-programming-challenge-3-932b16ddd957)
 
-This solution written in Javascript for Node 4.x and implements a breadth-first algortihm.
+This solution written in Javascript for Node 4.x implements a breadth-first algorithm to quickly solve all mazes in the challenge.
 
 # Usage
 
